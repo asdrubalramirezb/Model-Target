@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="camera" targetId="c18ed791f96246c0bda695be2562cd4c" version="11.1" toolVersion="9.8.5" bbox="-0.171383 -0.089236 -0.255359 0.165084 0.166158 0.000281" previewImage="c18ed791f96246c0bda695be2562cd4c_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="cameras_assembly" assemblyId="ed089c022ca54c28aae5b01fe353a198">
+<Part name="camera" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0038005 0.125882 0.53076" rotation="AD: 0.0035395727266471348 1.443350217179257 1.3867650480956997 179.789" image="camera_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.00929797 0.122465 0.625972" rotation="AD: -0.1143408906146499 1.0987944918433517 2.340351485955353 182.377" image="camera_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

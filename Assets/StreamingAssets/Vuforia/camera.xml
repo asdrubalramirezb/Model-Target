@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="camera" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="cameras_assembly" assemblyId="ed089c022ca54c28aae5b01fe353a198">
+<Part name="camera" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0038005 0.125882 0.53076" rotation="AD: 0.0035395727266471348 1.443350217179257 1.3867650480956997 179.789" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.00929797 0.122465 0.625972" rotation="AD: -0.1143408906146499 1.0987944918433517 2.340351485955353 182.377" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
